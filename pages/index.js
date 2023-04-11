@@ -158,7 +158,7 @@ export default function Home() {
 
 			<div className={"flex justify-between items-center py-4 max-w-5xl mx-auto border-t px-5 lg:px-0"}>
 				<div className={"text-sm uppercase text-primary-main"}>all rights reserved</div>
-				<Link href={"#"} target={"_blank"}>
+				<Link href={"https://github.com/mejaz/imaginai"} target={"_blank"}>
 					<img src={"/github-mark.svg"} alt={"github-repo"} className={"h-7 w-7"}/>
 				</Link>
 			</div>

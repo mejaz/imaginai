@@ -31,3 +31,5 @@ You can tweak the number of images to be generated per prompt. And download the 
 ## Contact
 
 mohdejazsiddiqui@gmail.com
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y618ZETK)
